@@ -1,0 +1,52 @@
+.header {
+  font-family: Arial, Helvetica
+}
+
+.header1 {
+  color: maroon;
+  position: relative;
+  top: -25px;
+}
+
+.desc {
+  position: relative;
+  top: -30px;
+  font-family: serif;
+}
+
+.education-header {
+  border-bottom: solid;
+  margin-right: 55%
+}
+
+.edu1 {
+  position: relative;
+  top: -10px;
+}
+
+.edu2 {
+  position: relative;
+  top: -35px;
+}
+
+.edu3 {
+  color: maroon;
+  font-size: 15px;
+  font-style: italic;
+  position: relative;
+  top: -55px;
+}
+
+.edu4{
+  color: maroon;
+  font-size: 13px;
+  font-style: italic;
+  position: relative;
+  top: -80px;
+  right: -180px;
+}
+
+.education-header2 {
+  position: relative;
+  top: -60px;
+}
