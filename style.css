@@ -266,13 +266,17 @@ th {
 }
 
 .table2 {
+  border-spacing: 10px;
   position: relative;
+  top: -10px;
 }
 
-/*
-.test {
-  position: relative;
-  top: -100px;
-}
+/*Footer*/
 
-*/
+.footer{
+  font-style: italic;
+  margin-right: 750px;
+  position: relative;
+  top: -60px;
+  right: -675px;
+}
